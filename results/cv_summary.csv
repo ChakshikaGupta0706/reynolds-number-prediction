@@ -1,0 +1,37 @@
+scheme,model,n_test_points,R2_log,R2_Re,MedAPE_%,MeanAPE_%,MaxAPE_%,fold_MedAPE_mean_%,fold_MedAPE_std_%
+5-fold x10 repeats,PowerLaw (log-linear),56,0.9961,0.9159,8.9106,9.6882,34.2221,8.6381,2.0471
+5-fold x10 repeats,Poly2 + Ridge,56,0.9974,0.988,7.2115,8.8071,25.1225,7.5557,1.6311
+5-fold x10 repeats,RandomForest (direct),56,0.9367,0.355,29.07,36.8997,268.1518,29.9207,9.3104
+5-fold x10 repeats,GradBoost (direct),56,0.9599,0.552,25.9175,35.1528,149.8963,32.7606,12.0607
+5-fold x10 repeats,PowerLaw + RF residual,56,0.9976,0.9377,5.3833,7.5819,30.9537,5.9114,1.5594
+5-fold x10 repeats,PowerLaw + GP residual,56,0.9982,0.9306,2.885,5.1261,30.6255,3.9384,1.3822
+70/30 hold-out x50,PowerLaw (log-linear),56,0.9961,0.9113,8.7022,9.7786,34.5418,9.158,1.889
+70/30 hold-out x50,Poly2 + Ridge,56,0.9972,0.9809,7.4123,9.0736,25.7823,7.7182,1.5291
+70/30 hold-out x50,RandomForest (direct),56,0.9308,0.387,32.0177,41.76,384.0451,34.5175,9.7523
+70/30 hold-out x50,GradBoost (direct),56,0.9587,0.5794,24.9812,36.7521,201.9561,34.9626,9.0503
+70/30 hold-out x50,PowerLaw + RF residual,56,0.9976,0.9358,5.9312,7.7408,29.0942,6.4814,1.3013
+70/30 hold-out x50,PowerLaw + GP residual,56,0.9982,0.9328,3.0113,5.2109,29.8554,4.1478,1.2136
+Leave-one-Pr-out,PowerLaw (log-linear),56,0.9939,0.8627,9.8344,12.1046,42.7337,8.4925,4.0493
+Leave-one-Pr-out,Poly2 + Ridge,56,0.9903,0.967,10.2177,16.0928,101.0737,7.1882,6.5576
+Leave-one-Pr-out,RandomForest (direct),56,0.5831,0.0601,66.1041,229.4852,1255.6714,86.279,135.7107
+Leave-one-Pr-out,GradBoost (direct),56,0.7609,0.2041,52.3599,133.9531,782.772,66.4132,66.1814
+Leave-one-Pr-out,PowerLaw + RF residual,56,0.9951,0.8781,8.9392,10.6283,41.2578,6.4286,4.1462
+Leave-one-Pr-out,PowerLaw + GP residual,56,0.9932,0.8629,6.8273,12.3757,52.3835,5.8826,4.7749
+Leave-one-Ra-decade-out,PowerLaw (log-linear),56,0.9957,0.9142,9.4262,10.2633,34.0856,14.802,11.3959
+Leave-one-Ra-decade-out,Poly2 + Ridge,56,0.9884,0.9837,8.2984,13.3479,65.0167,10.0915,4.8906
+Leave-one-Ra-decade-out,RandomForest (direct),56,0.7783,0.4731,47.487,185.586,4420.4947,44.7925,24.5453
+Leave-one-Ra-decade-out,GradBoost (direct),56,0.8312,0.2932,51.4324,124.1248,2420.1439,55.1982,27.4012
+Leave-one-Ra-decade-out,PowerLaw + RF residual,56,0.997,0.9414,8.3511,8.9545,27.9902,12.069,8.0773
+Leave-one-Ra-decade-out,PowerLaw + GP residual,56,0.9972,0.9341,7.1688,8.5132,28.8753,12.3113,8.9878
+Extrapolate Ra>1e9,PowerLaw (log-linear),8,0.9587,0.7359,15.6525,16.7214,42.041,15.6525,0.0
+Extrapolate Ra>1e9,Poly2 + Ridge,8,0.912,0.0202,31.1159,36.3714,82.9352,31.1159,0.0
+Extrapolate Ra>1e9,RandomForest (direct),8,-4.0475,-0.7669,87.0039,83.3523,99.1621,87.0039,0.0
+Extrapolate Ra>1e9,GradBoost (direct),8,-4.9751,-0.7713,88.7973,85.7382,99.3963,88.7973,0.0
+Extrapolate Ra>1e9,PowerLaw + RF residual,8,0.9659,0.7611,13.3298,14.2934,40.1899,13.3298,0.0
+Extrapolate Ra>1e9,PowerLaw + GP residual,8,0.9579,0.7358,15.5726,17.6191,42.041,15.5726,0.0
+Extrapolate Pr>1,PowerLaw (log-linear),5,0.9926,0.9775,5.7604,6.8193,13.3335,5.7604,0.0
+Extrapolate Pr>1,Poly2 + Ridge,5,0.7607,0.9554,26.3494,30.1747,56.9196,26.3494,0.0
+Extrapolate Pr>1,RandomForest (direct),5,-5.3767,-45.0893,692.0388,1485.2837,4258.6886,692.0388,0.0
+Extrapolate Pr>1,GradBoost (direct),5,-5.3072,-43.5308,680.3525,1461.8932,4194.3773,680.3525,0.0
+Extrapolate Pr>1,PowerLaw + RF residual,5,0.9921,0.9834,7.0808,6.5707,14.5478,7.0808,0.0
+Extrapolate Pr>1,PowerLaw + GP residual,5,0.9852,0.9118,9.643,10.9538,21.6263,9.643,0.0

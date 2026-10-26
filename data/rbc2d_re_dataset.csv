@@ -1,0 +1,78 @@
+source,table,Pr,Ra,Nu,Nu_std,Re,Re_std,sidewalls,aspect_ratio,use_in_training,note
+S26,Table1,0.021,1e9,37.43,28,443526,53505,adiabatic,1,1,
+S26,Table1,0.05,1e9,41.51,27,185128,30221,adiabatic,1,1,
+S26,Table1,0.1,1e9,42.72,24,95499,15598,adiabatic,1,1,
+S26,Table1,0.2,1e9,45.98,24,46456,9344,adiabatic,1,1,
+S26,Table1,0.35,1e9,48.10,26,27473,6068,adiabatic,1,1,
+S26,Table1,0.5,1e9,48.64,32,20492,3885,adiabatic,1,1,
+S26,Table1,0.7,1e9,49.22,34,15499,3374,adiabatic,1,1,
+S26,Table1,1,1e9,50.87,35,12012,3324,adiabatic,1,1,
+S26,Table1,2,1e9,51.09,12,5240,822,adiabatic,1,1,strong corner rolls; diagonal LSC
+S26,Table1,4.38,1e9,52.67,12,2698,543,adiabatic,1,1,strong corner rolls; diagonal LSC
+S26,Table1,7,1e9,52.27,13,1761,366,adiabatic,1,1,strong corner rolls; diagonal LSC
+S26,Table1,20,1e9,53.41,11,700,184,adiabatic,1,1,
+S26,Table1,50,1e9,52.12,11,320,90,adiabatic,1,1,
+PS25,Table1,0.1,1e6,5.91,0.1,1916,96,adiabatic,1,1,
+PS25,Table1,0.1,2e6,7.05,0.1,2747,18,adiabatic,1,1,
+PS25,Table1,0.1,3e6,7.88,0.1,3396,27,adiabatic,1,1,
+PS25,Table1,0.1,6e6,10.04,0.7,4979,428,adiabatic,1,1,
+PS25,Table1,0.1,1e7,11.77,1.1,6521,514,adiabatic,1,1,
+PS25,Table1,0.1,2e7,15.35,2.1,9512,968,adiabatic,1,1,
+PS25,Table1,0.1,3e7,17.50,8.6,12065,2981,adiabatic,1,1,
+PS25,Table1,0.1,1e8,23.01,12,22316,5024,adiabatic,1,1,
+PS25,Table1,0.1,3e8,31.06,16,43375,9299,adiabatic,1,1,
+PS25,Table1,0.1,1e9,42.72,24,95499,15598,adiabatic,1,0,duplicate of S26 row (same run)
+PS25,Table1,0.1,3e9,59.15,41,200001,22805,adiabatic,1,1,
+PS25,Table1,0.1,1e10,84.74,58,446638,56213,adiabatic,1,1,
+PS25,Table1,1,3e6,6.01,0.3,289,33,adiabatic,1,1,double-roll state (Ra<=1e7)
+PS25,Table1,1,6e6,7.11,0.1,423,4,adiabatic,1,1,double-roll state (Ra<=1e7)
+PS25,Table1,1,8e6,8.18,0.1,530,21,adiabatic,1,1,double-roll state (Ra<=1e7)
+PS25,Table1,1,9e6,8.64,0.2,580,21,adiabatic,1,1,double-roll state (Ra<=1e7)
+PS25,Table1,1,1e7,9.03,0.2,626,25,adiabatic,1,1,double-roll state (Ra<=1e7)
+PS25,Table1,1,1.5e7,13.33,1.2,918,129,adiabatic,1,1,
+PS25,Table1,1,2e7,14.75,4.5,1108,366,adiabatic,1,1,
+PS25,Table1,1,3e7,17.27,3.4,1376,337,adiabatic,1,1,
+PS25,Table1,1,6e7,21.48,4.8,2010,442,adiabatic,1,1,
+PS25,Table1,1,1e8,25.01,5.6,2665,432,adiabatic,1,1,
+PS25,Table1,1,3e8,35.61,7.5,4936,627,adiabatic,1,1,
+PS25,Table1,1,6e8,44.15,12,7385,954,adiabatic,1,1,
+PS25,Table1,1,1e9,50.87,35,12012,3324,adiabatic,1,0,duplicate of S26 row (same run)
+PS25,Table1,1,3e9,67.15,43,20958,5152,adiabatic,1,1,
+PS25,Table1,1,1e10,94.52,57,43533,8819,adiabatic,1,1,
+PS25,Table1,1,3e10,130.2,84,89031,18989,adiabatic,1,1,
+PS25,Table1,1,1e11,183.3,128,199858,41998,adiabatic,1,1,
+PS25,Table1,1,3e11,262.3,185,395763,69299,adiabatic,1,1,
+PS25,Table1,1,1e12,394.2,286,1085094,54592,adiabatic,1,1,
+PTS26,Table1,0.021,1e7,10.97,4.6,22570,4986,adiabatic,1,1,
+PTS26,Table1,0.021,2e7,13.04,5.2,33921,7101,adiabatic,1,1,
+PTS26,Table1,0.021,3e7,14.42,5.7,43040,8712,adiabatic,1,1,
+PTS26,Table1,0.021,5e7,16.58,7.0,59928,11542,adiabatic,1,1,
+PTS26,Table1,0.021,1e8,19.68,10,97012,17184,adiabatic,1,1,
+PTS26,Table1,0.021,4e8,28.32,20,275539,19188,adiabatic,1,1,
+PTS26,Table1,0.021,1e9,37.43,28,443526,53505,adiabatic,1,0,duplicate of S26 row (same run)
+PTS26,Table1,0.05,1e7,12.41,5.1,11624,2588,adiabatic,1,1,
+PTS26,Table1,0.05,2e7,14.52,6.8,16135,3401,adiabatic,1,1,
+PTS26,Table1,0.05,3e7,16.06,7.6,20167,4497,adiabatic,1,1,
+PTS26,Table1,0.05,1e8,21.64,10,41298,7966,adiabatic,1,1,
+PTS26,Table1,0.05,3e8,29.27,16,82321,20101,adiabatic,1,1,
+PTS26,Table1,0.05,5e8,33.50,20,122255,25627,adiabatic,1,1,
+PTS26,Table1,0.05,1e9,41.51,27,185128,30221,adiabatic,1,0,duplicate of S26 row (same run)
+P21,Table1,0.021,5e5,5.2,,6011.5,,adiabatic,1,1,mean of runs 1 and 1a (6012; 6011)
+P21,Table1,0.021,1e6,6.3,,6790.5,,adiabatic,1,1,mean of runs 2 and 2a (6806; 6775)
+P21,Table1,0.021,1e7,10.8,,22473,,adiabatic,1,0,independent run of PTS26 case; noise-floor check only (run 3)
+P21,Table1,0.021,1e7,11.1,,22187,,adiabatic,1,0,independent run of PTS26 case; noise-floor check only (run 3a)
+P21,Table1,0.021,1e8,19.6,,97118,,adiabatic,1,0,independent run of PTS26 case; noise-floor check only (run 4)
+P21,Table1,0.021,1e9,35.4,,432930,,adiabatic,1,0,independent run of S26/PTS26 case; noise-floor check only (run 5)
+P21,Table1,0.021,1e9,36.2,,433305,,adiabatic,1,0,independent run of S26/PTS26 case; noise-floor check only (run 5a)
+PTS26,Table2,1,2e5,4.8,3.8,94,30,periodic,1,0,periodic sidewalls (different BC); out-of-distribution check only
+PTS26,Table2,1,5e5,6.2,3.2,173,19,periodic,1,0,periodic sidewalls (different BC); out-of-distribution check only
+PTS26,Table2,1,1e6,6.9,5.3,254,34,periodic,1,0,periodic sidewalls (different BC); out-of-distribution check only
+PTS26,Table2,1,2e6,8.5,5.2,385,33,periodic,1,0,periodic sidewalls (different BC); out-of-distribution check only
+PTS26,Table2,1,5e6,10.3,5.4,656,29,periodic,1,0,periodic sidewalls (different BC); out-of-distribution check only
+PTS26,Table2,1,1e7,11.8,4.2,955,19,periodic,1,0,periodic sidewalls (different BC); out-of-distribution check only
+PTS26,Table2,1,2e7,13.1,4.5,1457,22,periodic,1,0,periodic sidewalls (different BC); out-of-distribution check only
+PTS26,Table2,1,5e7,13.3,5.5,2595,21,periodic,1,0,periodic sidewalls (different BC); out-of-distribution check only
+PTS26,Table2,1,1e8,13.6,5.5,3865,20,periodic,1,0,periodic sidewalls (different BC); out-of-distribution check only
+PTS26,Table2,1,2e8,15.5,6.9,5696,22,periodic,1,0,periodic sidewalls (different BC); out-of-distribution check only
+PTS26,Table2,1,5e8,20.4,13.4,9933,30,periodic,1,0,periodic sidewalls (different BC); out-of-distribution check only
+PTS26,Table2,1,1e9,24.6,18.1,14624,38,periodic,1,0,periodic sidewalls (different BC); out-of-distribution check only

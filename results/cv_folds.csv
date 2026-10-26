@@ -1,0 +1,739 @@
+scheme,model,R2_log,R2_Re,MedAPE,MeanAPE,MaxAPE
+5-fold x10 repeats,PowerLaw (log-linear),0.998,0.9907,7.1172,8.5157,19.259
+5-fold x10 repeats,PowerLaw (log-linear),0.9968,0.9982,7.5449,8.3174,19.4045
+5-fold x10 repeats,PowerLaw (log-linear),0.9674,0.9893,9.3093,15.1982,37.6094
+5-fold x10 repeats,PowerLaw (log-linear),0.9956,0.8456,13.3343,12.7724,37.5262
+5-fold x10 repeats,PowerLaw (log-linear),0.996,0.9939,5.8336,7.873,18.3717
+5-fold x10 repeats,PowerLaw (log-linear),0.9985,0.9881,5.8084,7.531,14.8788
+5-fold x10 repeats,PowerLaw (log-linear),0.9831,0.9758,11.2754,14.6099,34.6204
+5-fold x10 repeats,PowerLaw (log-linear),0.9979,0.9831,7.478,6.8612,14.1876
+5-fold x10 repeats,PowerLaw (log-linear),0.9979,0.9931,9.3975,9.0607,19.4203
+5-fold x10 repeats,PowerLaw (log-linear),0.9931,0.8609,7.3403,9.7704,35.1207
+5-fold x10 repeats,PowerLaw (log-linear),0.9982,0.986,9.8891,8.7428,19.1904
+5-fold x10 repeats,PowerLaw (log-linear),0.9916,0.895,11.4019,12.58,32.9226
+5-fold x10 repeats,PowerLaw (log-linear),0.9973,0.9963,9.7197,9.9699,19.1681
+5-fold x10 repeats,PowerLaw (log-linear),0.9974,0.9896,8.9013,8.0977,17.9153
+5-fold x10 repeats,PowerLaw (log-linear),0.9961,0.9985,8.7434,8.8925,25.6905
+5-fold x10 repeats,PowerLaw (log-linear),0.9984,0.9957,7.5128,6.7104,13.5509
+5-fold x10 repeats,PowerLaw (log-linear),0.9985,0.987,8.459,7.4107,14.8352
+5-fold x10 repeats,PowerLaw (log-linear),0.9917,0.891,8.9352,12.5166,31.8915
+5-fold x10 repeats,PowerLaw (log-linear),0.9969,0.9958,8.9889,10.8215,24.2727
+5-fold x10 repeats,PowerLaw (log-linear),0.995,0.9874,11.1302,9.5555,19.9381
+5-fold x10 repeats,PowerLaw (log-linear),0.9946,0.8776,10.9343,12.2745,32.6926
+5-fold x10 repeats,PowerLaw (log-linear),0.9963,0.9938,6.6127,7.8657,15.2486
+5-fold x10 repeats,PowerLaw (log-linear),0.9937,0.9974,6.7907,9.6706,26.7845
+5-fold x10 repeats,PowerLaw (log-linear),0.9923,0.994,9.4242,10.995,32.7551
+5-fold x10 repeats,PowerLaw (log-linear),0.9988,0.9869,5.5282,6.7996,17.2427
+5-fold x10 repeats,PowerLaw (log-linear),0.9936,0.9853,11.2536,11.4935,26.3767
+5-fold x10 repeats,PowerLaw (log-linear),0.9959,0.9907,7.4598,10.7185,34.1176
+5-fold x10 repeats,PowerLaw (log-linear),0.9932,0.8581,8.6624,10.7029,35.0196
+5-fold x10 repeats,PowerLaw (log-linear),0.9964,0.9802,6.123,8.5258,17.0575
+5-fold x10 repeats,PowerLaw (log-linear),0.9983,0.9911,8.2753,8.6494,19.4573
+5-fold x10 repeats,PowerLaw (log-linear),0.9975,0.9973,10.7787,9.6827,17.9114
+5-fold x10 repeats,PowerLaw (log-linear),0.9948,0.8502,7.3055,9.7547,35.9316
+5-fold x10 repeats,PowerLaw (log-linear),0.9943,0.9713,10.335,9.543,16.453
+5-fold x10 repeats,PowerLaw (log-linear),0.9971,0.9957,8.8623,9.5008,18.6423
+5-fold x10 repeats,PowerLaw (log-linear),0.9921,0.9921,7.3005,11.5032,35.8982
+5-fold x10 repeats,PowerLaw (log-linear),0.9985,0.993,5.5373,7.1374,19.8893
+5-fold x10 repeats,PowerLaw (log-linear),0.995,0.8708,3.869,8.0473,33.3787
+5-fold x10 repeats,PowerLaw (log-linear),0.9982,0.9856,10.2944,9.5515,17.8107
+5-fold x10 repeats,PowerLaw (log-linear),0.9879,0.9973,12.6797,12.8257,35.7251
+5-fold x10 repeats,PowerLaw (log-linear),0.9911,0.9951,11.555,10.7372,24.0128
+5-fold x10 repeats,PowerLaw (log-linear),0.9945,0.8787,10.1104,12.7576,32.5511
+5-fold x10 repeats,PowerLaw (log-linear),0.9986,0.9886,6.1793,7.2934,15.2599
+5-fold x10 repeats,PowerLaw (log-linear),0.998,0.9982,8.5579,8.8989,13.9464
+5-fold x10 repeats,PowerLaw (log-linear),0.9904,0.957,7.698,10.6455,32.3971
+5-fold x10 repeats,PowerLaw (log-linear),0.9978,0.99,7.0458,7.5967,14.8821
+5-fold x10 repeats,PowerLaw (log-linear),0.9969,0.995,11.6569,9.6483,15.6297
+5-fold x10 repeats,PowerLaw (log-linear),0.9944,0.8782,8.9481,10.8214,32.8324
+5-fold x10 repeats,PowerLaw (log-linear),0.9978,0.9864,10.1328,10.4779,19.3357
+5-fold x10 repeats,PowerLaw (log-linear),0.9934,0.9821,7.7242,10.3341,34.0586
+5-fold x10 repeats,PowerLaw (log-linear),0.9978,0.9988,6.1478,7.3506,18.3439
+5-fold x10 repeats,Poly2 + Ridge,0.9981,0.9678,6.2935,8.2212,19.519
+5-fold x10 repeats,Poly2 + Ridge,0.9975,0.9911,7.2308,8.0401,12.3865
+5-fold x10 repeats,Poly2 + Ridge,0.9836,0.9965,7.9251,10.4985,27.2766
+5-fold x10 repeats,Poly2 + Ridge,0.9975,0.9913,9.3679,12.5383,27.8347
+5-fold x10 repeats,Poly2 + Ridge,0.995,0.9627,6.9872,7.4044,20.0118
+5-fold x10 repeats,Poly2 + Ridge,0.9979,0.9807,7.8999,8.014,22.7215
+5-fold x10 repeats,Poly2 + Ridge,0.9918,0.98,7.4853,11.5355,23.9908
+5-fold x10 repeats,Poly2 + Ridge,0.9982,0.9974,4.6633,5.81,16.0701
+5-fold x10 repeats,Poly2 + Ridge,0.9978,0.9655,7.6096,8.9912,20.2047
+5-fold x10 repeats,Poly2 + Ridge,0.997,0.9878,8.685,8.9361,22.8506
+5-fold x10 repeats,Poly2 + Ridge,0.9971,0.957,9.5683,10.5736,24.0582
+5-fold x10 repeats,Poly2 + Ridge,0.9961,0.9891,9.7742,10.5137,22.3708
+5-fold x10 repeats,Poly2 + Ridge,0.9982,0.9935,8.0341,8.1646,16.2
+5-fold x10 repeats,Poly2 + Ridge,0.9976,0.9769,5.8832,6.92,18.3471
+5-fold x10 repeats,Poly2 + Ridge,0.9974,0.9893,6.7476,7.446,21.1033
+5-fold x10 repeats,Poly2 + Ridge,0.9957,0.9489,6.3305,8.9231,23.5779
+5-fold x10 repeats,Poly2 + Ridge,0.998,0.9737,6.8965,7.9917,18.9228
+5-fold x10 repeats,Poly2 + Ridge,0.9967,0.9826,10.1005,9.5893,20.7248
+5-fold x10 repeats,Poly2 + Ridge,0.997,0.9945,7.3657,10.4557,27.2619
+5-fold x10 repeats,Poly2 + Ridge,0.9968,0.9914,7.0127,7.954,17.8245
+5-fold x10 repeats,Poly2 + Ridge,0.9976,0.9923,8.3415,9.4841,20.8328
+5-fold x10 repeats,Poly2 + Ridge,0.9903,0.9485,11.0775,12.8478,21.5321
+5-fold x10 repeats,Poly2 + Ridge,0.9969,0.9955,7.6671,7.5758,15.7587
+5-fold x10 repeats,Poly2 + Ridge,0.9957,0.9984,5.5368,8.5991,25.6427
+5-fold x10 repeats,Poly2 + Ridge,0.9986,0.9742,5.6624,6.9326,17.206
+5-fold x10 repeats,Poly2 + Ridge,0.9963,0.9678,7.9671,9.4001,16.9969
+5-fold x10 repeats,Poly2 + Ridge,0.9976,0.9862,9.3718,10.0465,24.8186
+5-fold x10 repeats,Poly2 + Ridge,0.9966,0.9883,7.7148,9.8351,22.8204
+5-fold x10 repeats,Poly2 + Ridge,0.9975,0.9897,5.8716,6.7869,13.4195
+5-fold x10 repeats,Poly2 + Ridge,0.998,0.9537,5.0353,8.6408,23.9715
+5-fold x10 repeats,Poly2 + Ridge,0.9962,0.9981,7.3052,10.477,31.5691
+5-fold x10 repeats,Poly2 + Ridge,0.9978,0.9867,5.4467,8.4091,22.5821
+5-fold x10 repeats,Poly2 + Ridge,0.9946,0.9894,8.7415,8.788,23.7135
+5-fold x10 repeats,Poly2 + Ridge,0.9976,0.9926,6.9084,8.2438,23.9067
+5-fold x10 repeats,Poly2 + Ridge,0.9963,0.9864,9.0693,9.9015,21.582
+5-fold x10 repeats,Poly2 + Ridge,0.998,0.9657,8.6102,8.6656,20.848
+5-fold x10 repeats,Poly2 + Ridge,0.9989,0.9918,3.6531,4.5735,15.8345
+5-fold x10 repeats,Poly2 + Ridge,0.9978,0.9778,10.0025,10.0891,24.6149
+5-fold x10 repeats,Poly2 + Ridge,0.9936,0.9947,11.3297,10.2485,22.2855
+5-fold x10 repeats,Poly2 + Ridge,0.9933,0.9899,8.3168,9.9871,22.1506
+5-fold x10 repeats,Poly2 + Ridge,0.998,0.9898,5.8207,8.3501,19.4673
+5-fold x10 repeats,Poly2 + Ridge,0.9981,0.9737,6.3689,7.9794,20.7956
+5-fold x10 repeats,Poly2 + Ridge,0.9966,0.9938,7.2222,9.9668,28.6486
+5-fold x10 repeats,Poly2 + Ridge,0.9948,0.9601,7.2194,9.4725,17.4527
+5-fold x10 repeats,Poly2 + Ridge,0.9974,0.9594,5.3901,7.1658,17.6027
+5-fold x10 repeats,Poly2 + Ridge,0.9974,0.9934,6.8322,8.4876,21.8501
+5-fold x10 repeats,Poly2 + Ridge,0.9965,0.9867,7.501,9.4086,26.9236
+5-fold x10 repeats,Poly2 + Ridge,0.998,0.9791,10.2183,9.7438,23.6277
+5-fold x10 repeats,Poly2 + Ridge,0.9969,0.9645,8.1122,7.9928,18.4294
+5-fold x10 repeats,Poly2 + Ridge,0.9973,0.9914,7.6076,7.9253,17.792
+5-fold x10 repeats,RandomForest (direct),0.9624,0.8682,32.3634,41.4617,115.159
+5-fold x10 repeats,RandomForest (direct),0.9423,0.4946,23.2378,30.7584,116.3999
+5-fold x10 repeats,RandomForest (direct),0.8947,0.9374,18.0552,37.6081,122.399
+5-fold x10 repeats,RandomForest (direct),0.9187,0.2752,46.6771,66.0576,233.5414
+5-fold x10 repeats,RandomForest (direct),0.8624,0.325,22.3974,25.7015,70.0276
+5-fold x10 repeats,RandomForest (direct),0.8482,0.0603,38.3745,48.773,130.9212
+5-fold x10 repeats,RandomForest (direct),0.9347,0.7651,33.28,40.8381,91.3707
+5-fold x10 repeats,RandomForest (direct),0.9201,0.8175,38.4024,53.2714,233.5414
+5-fold x10 repeats,RandomForest (direct),0.9308,0.265,22.1946,30.6085,77.3575
+5-fold x10 repeats,RandomForest (direct),0.7627,-0.0072,36.4481,32.8701,91.3034
+5-fold x10 repeats,RandomForest (direct),0.9516,0.7713,34.8359,51.9151,236.6913
+5-fold x10 repeats,RandomForest (direct),0.9412,0.3403,20.4501,26.7905,76.3464
+5-fold x10 repeats,RandomForest (direct),0.9614,0.6409,33.0967,31.7218,94.0234
+5-fold x10 repeats,RandomForest (direct),0.9257,0.3203,18.4183,24.8415,75.3443
+5-fold x10 repeats,RandomForest (direct),0.9354,0.6447,24.387,32.6041,97.6025
+5-fold x10 repeats,RandomForest (direct),0.8795,0.3453,32.9953,60.956,289.1601
+5-fold x10 repeats,RandomForest (direct),0.9482,0.5511,21.2099,25.8183,69.3525
+5-fold x10 repeats,RandomForest (direct),0.9331,0.3277,15.4795,23.1014,76.7529
+5-fold x10 repeats,RandomForest (direct),0.9606,0.7502,30.8809,37.4923,115.1162
+5-fold x10 repeats,RandomForest (direct),0.9577,0.8529,28.6637,28.7845,102.374
+5-fold x10 repeats,RandomForest (direct),0.9366,0.328,26.2983,30.4204,78.4781
+5-fold x10 repeats,RandomForest (direct),0.7394,0.1503,46.1595,42.3853,76.8499
+5-fold x10 repeats,RandomForest (direct),0.9039,0.9783,39.1721,60.4791,222.8785
+5-fold x10 repeats,RandomForest (direct),0.9784,0.859,24.4355,23.0716,38.8763
+5-fold x10 repeats,RandomForest (direct),0.9537,0.5752,29.1527,37.1519,106.6174
+5-fold x10 repeats,RandomForest (direct),0.9421,0.7051,26.8645,36.2064,132.5883
+5-fold x10 repeats,RandomForest (direct),0.9388,0.4021,17.8836,43.6097,145.7874
+5-fold x10 repeats,RandomForest (direct),0.89,0.3102,44.9774,36.6849,76.537
+5-fold x10 repeats,RandomForest (direct),0.8908,0.5615,23.7411,55.4255,233.5414
+5-fold x10 repeats,RandomForest (direct),0.9831,0.9113,11.3967,18.3902,56.911
+5-fold x10 repeats,RandomForest (direct),0.9217,0.691,32.8327,65.2068,234.9036
+5-fold x10 repeats,RandomForest (direct),0.8317,-0.0267,34.8788,42.104,129.7141
+5-fold x10 repeats,RandomForest (direct),0.9311,0.8902,17.8947,22.9266,60.804
+5-fold x10 repeats,RandomForest (direct),0.9587,0.7696,19.8182,28.1548,68.6795
+5-fold x10 repeats,RandomForest (direct),0.9202,0.4627,37.7185,43.6589,98.761
+5-fold x10 repeats,RandomForest (direct),0.9429,0.4235,41.5373,44.5801,109.7835
+5-fold x10 repeats,RandomForest (direct),0.8969,0.3154,38.0174,52.915,232.084
+5-fold x10 repeats,RandomForest (direct),0.9478,0.4972,31.8013,35.5182,88.307
+5-fold x10 repeats,RandomForest (direct),0.9533,0.6325,26.9301,25.3178,56.2194
+5-fold x10 repeats,RandomForest (direct),0.8788,0.9478,39.2456,41.0486,112.7781
+5-fold x10 repeats,RandomForest (direct),0.9014,0.157,27.2103,55.6902,211.4902
+5-fold x10 repeats,RandomForest (direct),0.81,0.0098,55.3587,61.9732,122.6822
+5-fold x10 repeats,RandomForest (direct),0.948,0.5879,30.9499,36.7787,108.1278
+5-fold x10 repeats,RandomForest (direct),0.8957,0.7547,28.0508,47.2904,260.4231
+5-fold x10 repeats,RandomForest (direct),0.9715,0.8125,21.7431,25.4785,60.0558
+5-fold x10 repeats,RandomForest (direct),0.9439,0.748,37.1671,38.4703,95.2989
+5-fold x10 repeats,RandomForest (direct),0.8455,0.3597,42.3169,109.9529,626.843
+5-fold x10 repeats,RandomForest (direct),0.9548,0.5001,31.0768,33.3425,76.1806
+5-fold x10 repeats,RandomForest (direct),0.9462,0.6451,15.8931,36.4675,130.9703
+5-fold x10 repeats,RandomForest (direct),0.9516,0.5943,23.6638,27.0868,57.6744
+5-fold x10 repeats,GradBoost (direct),0.9403,0.6973,42.4142,51.3903,185.4689
+5-fold x10 repeats,GradBoost (direct),0.9416,0.7756,21.3337,43.1512,170.9138
+5-fold x10 repeats,GradBoost (direct),0.9511,0.8373,14.0004,21.0602,81.9617
+5-fold x10 repeats,GradBoost (direct),0.9593,0.5133,40.6841,47.808,126.5632
+5-fold x10 repeats,GradBoost (direct),0.8294,0.3144,37.6134,52.251,160.5348
+5-fold x10 repeats,GradBoost (direct),0.9121,0.4478,45.0882,47.0323,101.1886
+5-fold x10 repeats,GradBoost (direct),0.9346,0.9358,33.8459,38.7809,88.0498
+5-fold x10 repeats,GradBoost (direct),0.9003,0.8376,41.7673,63.9572,194.16
+5-fold x10 repeats,GradBoost (direct),0.9501,0.3651,32.4479,37.0483,91.2675
+5-fold x10 repeats,GradBoost (direct),0.8522,0.1995,52.2932,48.1299,91.9692
+5-fold x10 repeats,GradBoost (direct),0.9526,0.7687,30.0001,51.047,163.5319
+5-fold x10 repeats,GradBoost (direct),0.9099,0.5097,36.806,57.2009,293.213
+5-fold x10 repeats,GradBoost (direct),0.9765,0.962,18.2562,25.3147,93.487
+5-fold x10 repeats,GradBoost (direct),0.9676,0.7383,21.8391,25.1639,51.3697
+5-fold x10 repeats,GradBoost (direct),0.9645,0.6848,33.0481,31.6233,93.4856
+5-fold x10 repeats,GradBoost (direct),0.9272,0.501,34.4938,43.7798,130.2778
+5-fold x10 repeats,GradBoost (direct),0.9497,0.717,33.7327,39.9344,101.7792
+5-fold x10 repeats,GradBoost (direct),0.9595,0.5199,23.7644,28.5196,64.9028
+5-fold x10 repeats,GradBoost (direct),0.9771,0.4318,13.3649,27.3413,92.5267
+5-fold x10 repeats,GradBoost (direct),0.9358,0.6149,18.3663,38.531,122.5765
+5-fold x10 repeats,GradBoost (direct),0.9486,0.521,38.1562,38.2152,64.6362
+5-fold x10 repeats,GradBoost (direct),0.9082,0.503,20.5073,26.8251,63.8072
+5-fold x10 repeats,GradBoost (direct),0.8832,-0.009,73.6291,71.8646,178.2134
+5-fold x10 repeats,GradBoost (direct),0.9697,0.9144,12.2408,24.3223,58.0214
+5-fold x10 repeats,GradBoost (direct),0.9584,0.8037,21.6588,38.6528,102.0864
+5-fold x10 repeats,GradBoost (direct),0.9711,0.8314,26.8819,27.5665,49.7622
+5-fold x10 repeats,GradBoost (direct),0.9595,0.7034,36.6116,41.0202,96.002
+5-fold x10 repeats,GradBoost (direct),0.9468,0.5065,26.1192,28.0908,65.253
+5-fold x10 repeats,GradBoost (direct),0.8834,0.5891,29.1393,60.0314,180.7385
+5-fold x10 repeats,GradBoost (direct),0.9613,-1.8052,30.0995,38.5464,162.769
+5-fold x10 repeats,GradBoost (direct),0.9377,0.8416,34.0666,57.0239,148.1952
+5-fold x10 repeats,GradBoost (direct),0.8903,0.1872,44.8153,47.2402,99.4876
+5-fold x10 repeats,GradBoost (direct),0.976,0.9694,15.2411,19.5972,54.5192
+5-fold x10 repeats,GradBoost (direct),0.9548,0.2888,28.9271,33.2351,93.1688
+5-fold x10 repeats,GradBoost (direct),0.9435,0.7223,39.4959,39.1416,90.3191
+5-fold x10 repeats,GradBoost (direct),0.9447,0.6672,50.096,55.4197,120.2856
+5-fold x10 repeats,GradBoost (direct),0.8975,0.5001,64.9614,69.1502,146.3463
+5-fold x10 repeats,GradBoost (direct),0.9577,0.6479,30.0295,46.3211,161.9443
+5-fold x10 repeats,GradBoost (direct),0.9284,0.9719,30.2152,38.9393,111.5626
+5-fold x10 repeats,GradBoost (direct),0.8842,-0.0054,40.0221,49.127,139.3283
+5-fold x10 repeats,GradBoost (direct),0.9572,0.4784,33.0447,37.3941,88.8497
+5-fold x10 repeats,GradBoost (direct),0.8393,0.1903,44.1082,81.8407,275.9096
+5-fold x10 repeats,GradBoost (direct),0.9433,0.8421,38.3492,45.0065,134.7286
+5-fold x10 repeats,GradBoost (direct),0.9316,0.8664,26.0882,38.2171,123.1738
+5-fold x10 repeats,GradBoost (direct),0.9355,0.6644,38.0672,47.3719,163.9897
+5-fold x10 repeats,GradBoost (direct),0.9246,0.4335,22.6929,54.9632,225.2142
+5-fold x10 repeats,GradBoost (direct),0.8891,0.5231,35.4738,87.9784,463.73
+5-fold x10 repeats,GradBoost (direct),0.9711,0.6189,19.66,31.9228,100.282
+5-fold x10 repeats,GradBoost (direct),0.9561,0.8687,27.3773,37.8964,140.7251
+5-fold x10 repeats,GradBoost (direct),0.962,0.801,35.096,26.7876,43.871
+5-fold x10 repeats,PowerLaw + RF residual,0.9996,0.9985,3.6957,4.1487,7.7657
+5-fold x10 repeats,PowerLaw + RF residual,0.9986,0.9948,5.4669,5.9328,10.8065
+5-fold x10 repeats,PowerLaw + RF residual,0.9842,0.9941,9.1554,10.8413,29.5597
+5-fold x10 repeats,PowerLaw + RF residual,0.9956,0.8976,11.8992,14.4304,36.9172
+5-fold x10 repeats,PowerLaw + RF residual,0.9959,0.9668,4.8906,6.5939,20.4435
+5-fold x10 repeats,PowerLaw + RF residual,0.9971,0.9875,5.5306,8.6332,34.0232
+5-fold x10 repeats,PowerLaw + RF residual,0.9912,0.9915,6.987,10.1263,27.2945
+5-fold x10 repeats,PowerLaw + RF residual,0.9986,0.9967,4.2881,4.9428,14.1023
+5-fold x10 repeats,PowerLaw + RF residual,0.9984,0.97,4.5871,6.9098,19.8195
+5-fold x10 repeats,PowerLaw + RF residual,0.9956,0.892,4.5897,7.4431,31.1127
+5-fold x10 repeats,PowerLaw + RF residual,0.9982,0.9859,6.2052,7.9069,17.6905
+5-fold x10 repeats,PowerLaw + RF residual,0.9944,0.9238,7.2617,11.8122,25.9465
+5-fold x10 repeats,PowerLaw + RF residual,0.9993,0.9981,4.8091,5.099,10.4331
+5-fold x10 repeats,PowerLaw + RF residual,0.9991,0.9909,3.9902,4.4024,9.6062
+5-fold x10 repeats,PowerLaw + RF residual,0.9989,0.9972,6.1565,5.9477,9.4596
+5-fold x10 repeats,PowerLaw + RF residual,0.9975,0.9656,5.5287,7.1992,20.8267
+5-fold x10 repeats,PowerLaw + RF residual,0.9994,0.9953,4.0459,4.44,9.069
+5-fold x10 repeats,PowerLaw + RF residual,0.9956,0.9164,5.1982,9.0034,27.1153
+5-fold x10 repeats,PowerLaw + RF residual,0.9977,0.995,6.0301,9.1647,32.4327
+5-fold x10 repeats,PowerLaw + RF residual,0.9977,0.9913,5.6833,7.2228,12.7722
+5-fold x10 repeats,PowerLaw + RF residual,0.9957,0.9141,6.4955,10.362,27.4054
+5-fold x10 repeats,PowerLaw + RF residual,0.995,0.9704,6.4393,8.5344,19.4343
+5-fold x10 repeats,PowerLaw + RF residual,0.9982,0.9957,4.3323,5.9749,13.0026
+5-fold x10 repeats,PowerLaw + RF residual,0.9964,0.9963,5.0224,7.9869,20.7194
+5-fold x10 repeats,PowerLaw + RF residual,0.9995,0.9948,3.8588,4.3064,9.2235
+5-fold x10 repeats,PowerLaw + RF residual,0.9959,0.9632,7.6395,9.2256,18.7572
+5-fold x10 repeats,PowerLaw + RF residual,0.998,0.9919,5.2191,8.1132,24.7276
+5-fold x10 repeats,PowerLaw + RF residual,0.996,0.9072,5.2887,8.5819,28.3147
+5-fold x10 repeats,PowerLaw + RF residual,0.9973,0.9959,5.2833,6.5385,17.0245
+5-fold x10 repeats,PowerLaw + RF residual,0.9987,0.9993,5.6485,7.2623,19.4148
+5-fold x10 repeats,PowerLaw + RF residual,0.9968,0.9987,6.3789,8.9769,35.762
+5-fold x10 repeats,PowerLaw + RF residual,0.9961,0.8837,5.8341,8.553,31.7157
+5-fold x10 repeats,PowerLaw + RF residual,0.9971,0.988,6.6398,6.8127,15.7193
+5-fold x10 repeats,PowerLaw + RF residual,0.9988,0.9959,4.646,5.8523,19.308
+5-fold x10 repeats,PowerLaw + RF residual,0.9965,0.9923,7.818,9.2164,25.0061
+5-fold x10 repeats,PowerLaw + RF residual,0.9984,0.9712,6.2608,7.4633,20.8758
+5-fold x10 repeats,PowerLaw + RF residual,0.9963,0.9138,6.8553,8.2556,27.2627
+5-fold x10 repeats,PowerLaw + RF residual,0.9983,0.9934,4.9512,7.0911,34.0276
+5-fold x10 repeats,PowerLaw + RF residual,0.9938,0.9981,9.2607,9.0359,26.8167
+5-fold x10 repeats,PowerLaw + RF residual,0.9962,0.9936,7.9879,8.1046,12.0438
+5-fold x10 repeats,PowerLaw + RF residual,0.997,0.9015,5.2189,8.7086,29.3687
+5-fold x10 repeats,PowerLaw + RF residual,0.999,0.9796,4.5146,5.6825,13.3082
+5-fold x10 repeats,PowerLaw + RF residual,0.9958,0.9942,9.028,11.3181,37.1849
+5-fold x10 repeats,PowerLaw + RF residual,0.9958,0.9851,6.2707,7.8176,19.6513
+5-fold x10 repeats,PowerLaw + RF residual,0.9979,0.9863,5.1258,6.3633,16.4329
+5-fold x10 repeats,PowerLaw + RF residual,0.997,0.9946,5.979,7.9494,28.7318
+5-fold x10 repeats,PowerLaw + RF residual,0.9969,0.9157,5.0068,8.3684,27.3081
+5-fold x10 repeats,PowerLaw + RF residual,0.9991,0.9931,5.5444,6.2313,20.1942
+5-fold x10 repeats,PowerLaw + RF residual,0.9963,0.9605,6.0095,8.4793,20.4814
+5-fold x10 repeats,PowerLaw + RF residual,0.9982,0.9971,5.014,6.7014,15.9259
+5-fold x10 repeats,PowerLaw + GP residual,0.9995,0.9749,2.7636,3.6001,14.8253
+5-fold x10 repeats,PowerLaw + GP residual,0.9992,0.9984,3.4024,3.6992,12.2354
+5-fold x10 repeats,PowerLaw + GP residual,0.9874,0.9922,3.7971,8.0906,30.6582
+5-fold x10 repeats,PowerLaw + GP residual,0.9975,0.9022,4.6836,8.7024,30.1215
+5-fold x10 repeats,PowerLaw + GP residual,0.997,0.9894,4.0776,5.5374,17.1839
+5-fold x10 repeats,PowerLaw + GP residual,0.9985,0.9766,7.0785,6.7856,13.7112
+5-fold x10 repeats,PowerLaw + GP residual,0.991,0.9969,3.1199,7.378,33.0017
+5-fold x10 repeats,PowerLaw + GP residual,0.9995,0.9994,2.7162,3.1487,8.2088
+5-fold x10 repeats,PowerLaw + GP residual,0.9994,0.9943,4.8796,4.1813,10.2949
+5-fold x10 repeats,PowerLaw + GP residual,0.9948,0.8651,2.6731,6.5296,34.8044
+5-fold x10 repeats,PowerLaw + GP residual,0.9988,0.9721,5.0221,6.6927,15.9609
+5-fold x10 repeats,PowerLaw + GP residual,0.9953,0.9151,3.2921,7.8429,27.3938
+5-fold x10 repeats,PowerLaw + GP residual,0.9997,0.9992,1.3102,2.3582,12.7692
+5-fold x10 repeats,PowerLaw + GP residual,0.9995,0.9984,2.8416,2.9875,8.0872
+5-fold x10 repeats,PowerLaw + GP residual,0.9975,0.9919,3.7447,6.5531,29.5547
+5-fold x10 repeats,PowerLaw + GP residual,0.9986,0.9894,5.9021,6.1433,14.7087
+5-fold x10 repeats,PowerLaw + GP residual,0.9994,0.9854,2.449,3.7903,14.4866
+5-fold x10 repeats,PowerLaw + GP residual,0.995,0.9147,4.4123,8.2042,27.3909
+5-fold x10 repeats,PowerLaw + GP residual,0.9997,0.9954,3.1399,3.2226,8.102
+5-fold x10 repeats,PowerLaw + GP residual,0.9972,0.9984,5.0762,6.022,26.9569
+5-fold x10 repeats,PowerLaw + GP residual,0.9977,0.9087,3.2557,5.0802,28.2637
+5-fold x10 repeats,PowerLaw + GP residual,0.9951,0.9888,7.0127,8.5786,28.015
+5-fold x10 repeats,PowerLaw + GP residual,0.9977,0.9944,6.1791,6.4356,17.0671
+5-fold x10 repeats,PowerLaw + GP residual,0.9961,0.9991,5.0005,6.3209,26.962
+5-fold x10 repeats,PowerLaw + GP residual,0.9996,0.9853,1.9464,3.0741,14.7004
+5-fold x10 repeats,PowerLaw + GP residual,0.9981,0.9763,3.9549,5.5765,16.397
+5-fold x10 repeats,PowerLaw + GP residual,0.998,0.9885,7.35,7.5808,25.9656
+5-fold x10 repeats,PowerLaw + GP residual,0.9957,0.8853,3.8182,6.732,31.5082
+5-fold x10 repeats,PowerLaw + GP residual,0.9976,0.9981,0.9362,4.0532,26.5052
+5-fold x10 repeats,PowerLaw + GP residual,0.999,0.9603,4.9349,6.2633,19.4602
+5-fold x10 repeats,PowerLaw + GP residual,0.9997,0.9988,3.7626,3.368,6.6697
+5-fold x10 repeats,PowerLaw + GP residual,0.9954,0.8552,6.1903,8.313,35.6275
+5-fold x10 repeats,PowerLaw + GP residual,0.9959,0.9911,2.509,5.5494,29.561
+5-fold x10 repeats,PowerLaw + GP residual,0.9996,0.9959,2.0143,3.0639,7.4861
+5-fold x10 repeats,PowerLaw + GP residual,0.9968,0.9974,3.1825,6.2698,29.2868
+5-fold x10 repeats,PowerLaw + GP residual,0.9993,0.9918,3.6319,4.5292,14.88
+5-fold x10 repeats,PowerLaw + GP residual,0.9954,0.892,4.2254,8.497,30.5241
+5-fold x10 repeats,PowerLaw + GP residual,0.9995,0.9853,2.609,3.7667,14.9863
+5-fold x10 repeats,PowerLaw + GP residual,0.9943,0.9994,2.0278,5.7232,31.3952
+5-fold x10 repeats,PowerLaw + GP residual,0.9966,0.9934,4.6037,6.0596,21.6286
+5-fold x10 repeats,PowerLaw + GP residual,0.9965,0.8974,4.78,8.2484,29.9684
+5-fold x10 repeats,PowerLaw + GP residual,0.9989,0.9811,4.0537,5.3503,13.8291
+5-fold x10 repeats,PowerLaw + GP residual,0.9978,0.9959,4.104,6.9529,27.1878
+5-fold x10 repeats,PowerLaw + GP residual,0.9943,0.9975,4.3118,7.0577,27.3719
+5-fold x10 repeats,PowerLaw + GP residual,0.9987,0.9735,3.7373,4.8784,15.3174
+5-fold x10 repeats,PowerLaw + GP residual,0.9993,0.995,3.6901,4.0879,10.2896
+5-fold x10 repeats,PowerLaw + GP residual,0.9962,0.8974,4.0704,8.4456,30.134
+5-fold x10 repeats,PowerLaw + GP residual,0.9994,0.9847,4.4253,4.6633,14.5719
+5-fold x10 repeats,PowerLaw + GP residual,0.9958,0.9771,3.7017,7.1733,27.6019
+5-fold x10 repeats,PowerLaw + GP residual,0.9974,0.9955,4.5175,6.7532,27.0142
+70/30 hold-out x50,PowerLaw (log-linear),0.9983,0.9921,5.7219,7.9985,19.7266
+70/30 hold-out x50,PowerLaw (log-linear),0.9938,0.9931,8.4057,10.8304,34.3849
+70/30 hold-out x50,PowerLaw (log-linear),0.996,0.9915,6.5841,8.9195,33.3862
+70/30 hold-out x50,PowerLaw (log-linear),0.9982,0.9966,7.7538,7.2794,16.7896
+70/30 hold-out x50,PowerLaw (log-linear),0.9956,0.8964,9.3435,10.3752,32.0253
+70/30 hold-out x50,PowerLaw (log-linear),0.9965,0.9878,10.5638,10.335,25.2719
+70/30 hold-out x50,PowerLaw (log-linear),0.998,0.9897,9.3026,8.9852,17.3797
+70/30 hold-out x50,PowerLaw (log-linear),0.9972,0.8861,6.5609,8.2714,33.8212
+70/30 hold-out x50,PowerLaw (log-linear),0.9956,0.878,10.7326,11.8842,34.5977
+70/30 hold-out x50,PowerLaw (log-linear),0.9967,0.9956,11.4221,9.3012,15.836
+70/30 hold-out x50,PowerLaw (log-linear),0.9941,0.8721,12.3702,13.1839,34.5529
+70/30 hold-out x50,PowerLaw (log-linear),0.9964,0.8723,9.473,10.3978,36.8329
+70/30 hold-out x50,PowerLaw (log-linear),0.9881,0.9967,10.3046,12.2392,35.751
+70/30 hold-out x50,PowerLaw (log-linear),0.9949,0.9952,8.5084,9.8024,27.2455
+70/30 hold-out x50,PowerLaw (log-linear),0.9972,0.9955,7.8469,9.172,20.1025
+70/30 hold-out x50,PowerLaw (log-linear),0.9955,0.9965,6.2483,8.7979,26.8392
+70/30 hold-out x50,PowerLaw (log-linear),0.9955,0.9945,13.2522,11.9368,23.6605
+70/30 hold-out x50,PowerLaw (log-linear),0.9955,0.9959,8.9107,10.8109,26.2052
+70/30 hold-out x50,PowerLaw (log-linear),0.9958,0.8572,8.3471,10.2885,38.2956
+70/30 hold-out x50,PowerLaw (log-linear),0.9963,0.8845,9.7711,9.9203,33.6746
+70/30 hold-out x50,PowerLaw (log-linear),0.9952,0.9852,11.6634,10.8766,32.1707
+70/30 hold-out x50,PowerLaw (log-linear),0.9936,0.9977,9.6076,11.4593,35.6168
+70/30 hold-out x50,PowerLaw (log-linear),0.9962,0.9916,11.9896,11.2261,22.2055
+70/30 hold-out x50,PowerLaw (log-linear),0.9972,0.9863,10.5953,9.9961,20.7522
+70/30 hold-out x50,PowerLaw (log-linear),0.9965,0.9978,8.015,8.8266,33.975
+70/30 hold-out x50,PowerLaw (log-linear),0.9951,0.9044,7.0597,9.6134,32.8651
+70/30 hold-out x50,PowerLaw (log-linear),0.9959,0.8761,8.8911,10.697,35.0538
+70/30 hold-out x50,PowerLaw (log-linear),0.9968,0.9876,9.7322,9.3344,23.7844
+70/30 hold-out x50,PowerLaw (log-linear),0.9954,0.8435,8.9886,11.5875,38.1038
+70/30 hold-out x50,PowerLaw (log-linear),0.9906,0.9752,9.8524,10.2256,33.2526
+70/30 hold-out x50,PowerLaw (log-linear),0.9953,0.9961,9.9636,10.8566,26.5653
+70/30 hold-out x50,PowerLaw (log-linear),0.9923,0.9086,10.4897,12.6293,34.4956
+70/30 hold-out x50,PowerLaw (log-linear),0.9953,0.8791,9.6064,10.3367,35.2983
+70/30 hold-out x50,PowerLaw (log-linear),0.9961,0.8828,6.7483,10.208,34.1001
+70/30 hold-out x50,PowerLaw (log-linear),0.9961,0.9922,8.1218,8.7743,25.1108
+70/30 hold-out x50,PowerLaw (log-linear),0.9921,0.9039,10.9848,12.9997,32.1155
+70/30 hold-out x50,PowerLaw (log-linear),0.996,0.9936,6.593,9.2846,33.5666
+70/30 hold-out x50,PowerLaw (log-linear),0.992,0.9964,11.0081,11.5126,35.1496
+70/30 hold-out x50,PowerLaw (log-linear),0.9957,0.8574,13.2442,12.7007,37.7437
+70/30 hold-out x50,PowerLaw (log-linear),0.9952,0.8675,5.3781,9.4686,34.9202
+70/30 hold-out x50,PowerLaw (log-linear),0.9956,0.8915,9.9329,11.6652,33.0712
+70/30 hold-out x50,PowerLaw (log-linear),0.9952,0.877,11.1756,10.9696,34.5697
+70/30 hold-out x50,PowerLaw (log-linear),0.9952,0.8569,8.9071,10.7872,38.6572
+70/30 hold-out x50,PowerLaw (log-linear),0.997,0.9922,7.2458,8.6796,19.2713
+70/30 hold-out x50,PowerLaw (log-linear),0.9968,0.9914,10.2707,10.2286,20.424
+70/30 hold-out x50,PowerLaw (log-linear),0.9953,0.8929,9.1713,10.6541,32.616
+70/30 hold-out x50,PowerLaw (log-linear),0.9968,0.9961,9.846,10.5696,20.8799
+70/30 hold-out x50,PowerLaw (log-linear),0.9979,0.9937,6.1954,7.6078,19.254
+70/30 hold-out x50,PowerLaw (log-linear),0.9982,0.9968,7.3606,8.3747,21.6024
+70/30 hold-out x50,PowerLaw (log-linear),0.998,0.9908,7.8396,8.2348,20.3278
+70/30 hold-out x50,Poly2 + Ridge,0.9983,0.9716,7.3565,7.9428,19.8318
+70/30 hold-out x50,Poly2 + Ridge,0.9968,0.988,7.3836,9.0548,18.5234
+70/30 hold-out x50,Poly2 + Ridge,0.9966,0.9625,8.2591,9.8463,22.427
+70/30 hold-out x50,Poly2 + Ridge,0.9965,0.9523,7.7059,8.5665,23.3463
+70/30 hold-out x50,Poly2 + Ridge,0.998,0.9945,6.9418,8.0533,19.8918
+70/30 hold-out x50,Poly2 + Ridge,0.9973,0.9697,8.8006,9.5624,20.0711
+70/30 hold-out x50,Poly2 + Ridge,0.9971,0.9715,5.0995,9.3356,30.356
+70/30 hold-out x50,Poly2 + Ridge,0.9985,0.9854,6.3447,7.0902,21.1303
+70/30 hold-out x50,Poly2 + Ridge,0.9981,0.9783,7.2313,8.485,18.1942
+70/30 hold-out x50,Poly2 + Ridge,0.9976,0.994,6.9344,7.2962,21.2227
+70/30 hold-out x50,Poly2 + Ridge,0.9964,0.992,7.6896,10.8197,32.6106
+70/30 hold-out x50,Poly2 + Ridge,0.9901,0.956,11.1293,15.7087,50.3054
+70/30 hold-out x50,Poly2 + Ridge,0.9941,0.9976,7.5125,9.3632,23.264
+70/30 hold-out x50,Poly2 + Ridge,0.997,0.9956,5.6297,7.9727,21.2055
+70/30 hold-out x50,Poly2 + Ridge,0.9974,0.9726,8.8937,8.7904,16.4068
+70/30 hold-out x50,Poly2 + Ridge,0.9975,0.9971,6.2286,6.9658,16.6638
+70/30 hold-out x50,Poly2 + Ridge,0.9956,0.9961,8.9359,11.723,28.7913
+70/30 hold-out x50,Poly2 + Ridge,0.9966,0.9707,10.4443,9.996,23.288
+70/30 hold-out x50,Poly2 + Ridge,0.9982,0.9743,7.3934,7.6766,17.3686
+70/30 hold-out x50,Poly2 + Ridge,0.9985,0.9776,5.3849,7.5055,13.8801
+70/30 hold-out x50,Poly2 + Ridge,0.996,0.9718,5.5339,9.4485,32.062
+70/30 hold-out x50,Poly2 + Ridge,0.9963,0.9979,9.8248,10.352,25.5454
+70/30 hold-out x50,Poly2 + Ridge,0.9946,0.9958,4.8999,11.9972,33.4507
+70/30 hold-out x50,Poly2 + Ridge,0.9965,0.9622,9.0871,9.8878,21.8939
+70/30 hold-out x50,Poly2 + Ridge,0.9981,0.9817,7.3231,8.8308,22.0988
+70/30 hold-out x50,Poly2 + Ridge,0.9806,0.9785,10.6853,15.9243,62.1203
+70/30 hold-out x50,Poly2 + Ridge,0.9975,0.9674,8.1385,9.4556,20.5016
+70/30 hold-out x50,Poly2 + Ridge,0.9971,0.9625,7.5337,8.9987,18.833
+70/30 hold-out x50,Poly2 + Ridge,0.9957,0.9937,7.648,11.1064,34.2014
+70/30 hold-out x50,Poly2 + Ridge,0.9957,0.993,5.434,6.7726,18.669
+70/30 hold-out x50,Poly2 + Ridge,0.9969,0.9705,11.0204,10.0767,17.0645
+70/30 hold-out x50,Poly2 + Ridge,0.9958,0.9582,10.7998,10.9129,20.1072
+70/30 hold-out x50,Poly2 + Ridge,0.9974,0.9685,8.3863,8.9027,18.8603
+70/30 hold-out x50,Poly2 + Ridge,0.9982,0.9875,6.8775,7.9327,24.3003
+70/30 hold-out x50,Poly2 + Ridge,0.9971,0.9779,6.2058,7.7941,22.3279
+70/30 hold-out x50,Poly2 + Ridge,0.9959,0.9727,7.686,9.9309,22.7969
+70/30 hold-out x50,Poly2 + Ridge,0.9969,0.974,7.1861,9.2252,20.3073
+70/30 hold-out x50,Poly2 + Ridge,0.9953,0.9944,8.7424,9.8766,23.79
+70/30 hold-out x50,Poly2 + Ridge,0.9961,0.9906,9.4979,13.2743,40.4393
+70/30 hold-out x50,Poly2 + Ridge,0.9973,0.9919,7.9049,9.3692,23.4628
+70/30 hold-out x50,Poly2 + Ridge,0.9979,0.9849,8.8343,9.6183,21.035
+70/30 hold-out x50,Poly2 + Ridge,0.9978,0.9811,8.4351,8.6736,19.6991
+70/30 hold-out x50,Poly2 + Ridge,0.998,0.9885,7.8706,8.8309,19.6297
+70/30 hold-out x50,Poly2 + Ridge,0.9978,0.9954,6.7015,7.6255,18.0815
+70/30 hold-out x50,Poly2 + Ridge,0.9971,0.9773,8.492,9.0342,27.3572
+70/30 hold-out x50,Poly2 + Ridge,0.9981,0.9862,7.1216,7.6988,22.0085
+70/30 hold-out x50,Poly2 + Ridge,0.9977,0.9946,5.8303,7.6232,21.3268
+70/30 hold-out x50,Poly2 + Ridge,0.9974,0.972,6.9015,8.2559,21.3134
+70/30 hold-out x50,Poly2 + Ridge,0.9953,0.9952,6.7969,11.4911,44.2684
+70/30 hold-out x50,Poly2 + Ridge,0.9983,0.9765,7.2128,7.7304,15.2605
+70/30 hold-out x50,RandomForest (direct),0.9063,0.6871,42.7054,70.5493,187.0611
+70/30 hold-out x50,RandomForest (direct),0.8432,0.0897,39.8315,45.498,95.7118
+70/30 hold-out x50,RandomForest (direct),0.9495,0.7365,36.0514,46.1661,224.8801
+70/30 hold-out x50,RandomForest (direct),0.8523,0.2333,47.4743,60.0053,335.3241
+70/30 hold-out x50,RandomForest (direct),0.9196,0.2993,31.2859,37.877,81.3441
+70/30 hold-out x50,RandomForest (direct),0.9403,0.5158,39.1082,42.8617,142.6039
+70/30 hold-out x50,RandomForest (direct),0.9427,0.608,27.366,53.8397,248.0861
+70/30 hold-out x50,RandomForest (direct),0.9294,0.3246,41.7935,52.9298,169.7384
+70/30 hold-out x50,RandomForest (direct),0.9158,0.1955,27.978,46.8878,199.7794
+70/30 hold-out x50,RandomForest (direct),0.9474,0.7543,25.4159,33.9297,102.1773
+70/30 hold-out x50,RandomForest (direct),0.9253,0.2511,39.4782,45.6516,144.8408
+70/30 hold-out x50,RandomForest (direct),0.8327,0.3214,57.0438,143.288,1183.5046
+70/30 hold-out x50,RandomForest (direct),0.9385,0.8382,23.2749,34.4149,130.0495
+70/30 hold-out x50,RandomForest (direct),0.9296,0.8494,39.5052,54.0366,218.7662
+70/30 hold-out x50,RandomForest (direct),0.967,0.8043,28.4874,29.321,64.5735
+70/30 hold-out x50,RandomForest (direct),0.9537,0.8904,26.0459,37.2081,145.2363
+70/30 hold-out x50,RandomForest (direct),0.9143,0.5626,34.2286,44.2615,269.0971
+70/30 hold-out x50,RandomForest (direct),0.9355,0.8335,38.3906,53.0902,244.533
+70/30 hold-out x50,RandomForest (direct),0.8322,0.1222,47.8132,86.995,713.4346
+70/30 hold-out x50,RandomForest (direct),0.9262,0.3482,30.5716,52.679,233.6358
+70/30 hold-out x50,RandomForest (direct),0.968,0.6624,20.1203,29.3876,91.544
+70/30 hold-out x50,RandomForest (direct),0.9344,0.8395,36.0557,61.3909,230.8089
+70/30 hold-out x50,RandomForest (direct),0.9543,0.9044,32.4867,36.0339,129.221
+70/30 hold-out x50,RandomForest (direct),0.9141,0.3395,28.9566,34.1681,127.9343
+70/30 hold-out x50,RandomForest (direct),0.9588,0.632,28.536,35.8106,96.153
+70/30 hold-out x50,RandomForest (direct),0.7309,0.3739,60.8241,251.1588,2236.575
+70/30 hold-out x50,RandomForest (direct),0.8889,0.2731,36.6157,58.8708,271.7866
+70/30 hold-out x50,RandomForest (direct),0.9397,0.5845,27.1795,31.7306,101.6523
+70/30 hold-out x50,RandomForest (direct),0.8422,0.2335,40.9975,130.9395,1154.7982
+70/30 hold-out x50,RandomForest (direct),0.9759,0.964,13.2695,17.2533,56.0344
+70/30 hold-out x50,RandomForest (direct),0.9171,0.7518,38.3424,63.0948,339.6053
+70/30 hold-out x50,RandomForest (direct),0.9055,0.3191,32.1245,35.4577,75.1188
+70/30 hold-out x50,RandomForest (direct),0.8356,0.25,44.7401,40.4898,88.3149
+70/30 hold-out x50,RandomForest (direct),0.9435,0.3592,24.9841,36.3528,104.4079
+70/30 hold-out x50,RandomForest (direct),0.9216,0.4478,29.6365,35.5378,108.1229
+70/30 hold-out x50,RandomForest (direct),0.933,0.3633,21.5569,34.4252,98.9174
+70/30 hold-out x50,RandomForest (direct),0.9287,0.4899,25.3815,45.6982,286.2164
+70/30 hold-out x50,RandomForest (direct),0.8344,0.4862,36.8426,88.6612,684.3915
+70/30 hold-out x50,RandomForest (direct),0.9258,0.3468,39.3964,58.5013,232.2413
+70/30 hold-out x50,RandomForest (direct),0.9004,0.3554,52.1009,59.6771,264.4885
+70/30 hold-out x50,RandomForest (direct),0.9218,0.3717,47.2238,51.3321,246.6558
+70/30 hold-out x50,RandomForest (direct),0.9228,0.3615,36.1958,40.6189,87.1204
+70/30 hold-out x50,RandomForest (direct),0.8228,0.0685,38.4876,43.9205,88.8013
+70/30 hold-out x50,RandomForest (direct),0.9645,0.8882,20.9315,26.3743,58.9802
+70/30 hold-out x50,RandomForest (direct),0.9529,0.5043,25.2493,31.8999,83.5122
+70/30 hold-out x50,RandomForest (direct),0.9298,0.3412,24.805,36.5773,110.8987
+70/30 hold-out x50,RandomForest (direct),0.9074,0.5068,40.3834,59.5057,234.4373
+70/30 hold-out x50,RandomForest (direct),0.9192,0.357,20.1234,29.4613,75.4518
+70/30 hold-out x50,RandomForest (direct),0.9407,0.6599,34.4893,54.289,239.1001
+70/30 hold-out x50,RandomForest (direct),0.8541,0.1612,43.9896,45.4539,103.7544
+70/30 hold-out x50,GradBoost (direct),0.9289,0.6815,43.016,60.4161,199.2293
+70/30 hold-out x50,GradBoost (direct),0.898,0.3969,48.5551,46.0761,102.009
+70/30 hold-out x50,GradBoost (direct),0.9177,0.7103,37.9896,69.3287,227.4254
+70/30 hold-out x50,GradBoost (direct),0.907,0.4362,38.3783,56.4216,164.843
+70/30 hold-out x50,GradBoost (direct),0.95,0.559,35.57,37.2765,73.2316
+70/30 hold-out x50,GradBoost (direct),0.97,0.7407,27.004,29.7515,53.5928
+70/30 hold-out x50,GradBoost (direct),0.9415,0.7096,34.5314,58.6057,247.6361
+70/30 hold-out x50,GradBoost (direct),0.942,0.5179,48.8329,54.639,156.7647
+70/30 hold-out x50,GradBoost (direct),0.9537,0.4926,47.8262,41.9035,99.553
+70/30 hold-out x50,GradBoost (direct),0.9023,0.341,37.2337,57.3882,242.8413
+70/30 hold-out x50,GradBoost (direct),0.9325,0.5192,36.2354,62.332,212.8151
+70/30 hold-out x50,GradBoost (direct),0.9049,0.5466,40.6937,96.6179,786.2902
+70/30 hold-out x50,GradBoost (direct),0.9417,0.8828,19.02,37.2884,128.2968
+70/30 hold-out x50,GradBoost (direct),0.8916,-0.288,54.3331,72.1304,248.8575
+70/30 hold-out x50,GradBoost (direct),0.9574,0.7219,30.4192,36.9478,119.3916
+70/30 hold-out x50,GradBoost (direct),0.944,0.9253,32.7623,39.9797,99.3022
+70/30 hold-out x50,GradBoost (direct),0.9784,0.9259,22.3792,24.3536,128.2395
+70/30 hold-out x50,GradBoost (direct),0.9478,0.7181,38.4753,45.2637,125.3716
+70/30 hold-out x50,GradBoost (direct),0.9021,0.4887,51.7364,75.2761,406.307
+70/30 hold-out x50,GradBoost (direct),0.9442,0.5351,30.8179,55.0991,163.0369
+70/30 hold-out x50,GradBoost (direct),0.9824,0.8587,18.2911,21.6787,57.4415
+70/30 hold-out x50,GradBoost (direct),0.9313,0.2585,46.0344,67.1861,207.4191
+70/30 hold-out x50,GradBoost (direct),0.9433,0.3418,38.9709,48.2856,176.0105
+70/30 hold-out x50,GradBoost (direct),0.918,0.5486,37.7249,50.5214,191.6309
+70/30 hold-out x50,GradBoost (direct),0.9573,0.7849,31.7556,41.7823,171.376
+70/30 hold-out x50,GradBoost (direct),0.8076,0.5672,39.7245,182.5769,1583.2101
+70/30 hold-out x50,GradBoost (direct),0.9357,0.5102,37.0974,49.917,198.4164
+70/30 hold-out x50,GradBoost (direct),0.9392,-0.4445,38.7446,44.6424,158.7572
+70/30 hold-out x50,GradBoost (direct),0.9029,0.5175,33.4865,93.8474,757.665
+70/30 hold-out x50,GradBoost (direct),0.9024,0.6916,22.5304,38.2942,141.434
+70/30 hold-out x50,GradBoost (direct),0.9499,0.706,24.4346,43.5516,124.0327
+70/30 hold-out x50,GradBoost (direct),0.9308,0.4934,50.4772,43.7854,98.0399
+70/30 hold-out x50,GradBoost (direct),0.9274,0.4863,31.8991,36.7236,74.4743
+70/30 hold-out x50,GradBoost (direct),0.9531,0.5402,22.0104,39.6011,163.6356
+70/30 hold-out x50,GradBoost (direct),0.9174,0.7157,32.3286,43.6419,212.1459
+70/30 hold-out x50,GradBoost (direct),0.9386,0.5474,33.9493,43.5586,114.4514
+70/30 hold-out x50,GradBoost (direct),0.9401,0.5423,34.3426,51.0998,157.8749
+70/30 hold-out x50,GradBoost (direct),0.8972,0.8587,33.7542,67.6245,468.9365
+70/30 hold-out x50,GradBoost (direct),0.9698,0.5424,24.808,34.7715,127.1221
+70/30 hold-out x50,GradBoost (direct),0.9428,0.5232,26.0616,43.4415,132.9546
+70/30 hold-out x50,GradBoost (direct),0.9625,0.562,27.1691,35.9952,129.6166
+70/30 hold-out x50,GradBoost (direct),0.9202,0.5119,44.7937,59.7926,250.0652
+70/30 hold-out x50,GradBoost (direct),0.8867,0.2305,30.2728,39.6127,82.3664
+70/30 hold-out x50,GradBoost (direct),0.9626,0.1423,23.6118,26.8348,93.4235
+70/30 hold-out x50,GradBoost (direct),0.9614,0.6783,26.4693,30.849,76.2801
+70/30 hold-out x50,GradBoost (direct),0.948,0.5192,24.431,36.0911,135.12
+70/30 hold-out x50,GradBoost (direct),0.9103,0.7068,41.5948,61.0408,235.9125
+70/30 hold-out x50,GradBoost (direct),0.9503,0.7049,26.029,36.8816,93.0482
+70/30 hold-out x50,GradBoost (direct),0.9626,0.7396,38.4868,45.4204,131.8396
+70/30 hold-out x50,GradBoost (direct),0.8948,0.2129,51.037,56.4069,118.754
+70/30 hold-out x50,PowerLaw + RF residual,0.9992,0.9972,4.577,5.4307,11.128
+70/30 hold-out x50,PowerLaw + RF residual,0.9966,0.9913,5.7937,8.8065,24.2981
+70/30 hold-out x50,PowerLaw + RF residual,0.997,0.9846,6.8961,9.669,20.9192
+70/30 hold-out x50,PowerLaw + RF residual,0.9981,0.9701,4.4136,6.1499,20.8608
+70/30 hold-out x50,PowerLaw + RF residual,0.9962,0.9223,5.9248,9.196,28.4005
+70/30 hold-out x50,PowerLaw + RF residual,0.9972,0.9812,7.3661,9.185,27.1694
+70/30 hold-out x50,PowerLaw + RF residual,0.9974,0.9746,5.8792,8.2974,35.9846
+70/30 hold-out x50,PowerLaw + RF residual,0.9978,0.9195,5.6142,8.0182,27.6021
+70/30 hold-out x50,PowerLaw + RF residual,0.9975,0.8995,6.4785,8.0918,31.5985
+70/30 hold-out x50,PowerLaw + RF residual,0.9968,0.994,5.4565,8.1769,26.9281
+70/30 hold-out x50,PowerLaw + RF residual,0.9949,0.9077,8.6036,12.1376,35.3342
+70/30 hold-out x50,PowerLaw + RF residual,0.9972,0.9154,6.7284,9.4546,29.2168
+70/30 hold-out x50,PowerLaw + RF residual,0.9924,0.9975,7.9839,10.2364,29.7375
+70/30 hold-out x50,PowerLaw + RF residual,0.998,0.993,6.9571,7.399,14.0787
+70/30 hold-out x50,PowerLaw + RF residual,0.9981,0.9966,6.4397,7.1749,17.2708
+70/30 hold-out x50,PowerLaw + RF residual,0.9986,0.9971,5.3578,5.6993,11.5877
+70/30 hold-out x50,PowerLaw + RF residual,0.9977,0.9986,5.769,8.0356,19.7661
+70/30 hold-out x50,PowerLaw + RF residual,0.9981,0.9968,5.9216,7.0614,15.4891
+70/30 hold-out x50,PowerLaw + RF residual,0.9972,0.8934,7.9091,8.3475,33.2469
+70/30 hold-out x50,PowerLaw + RF residual,0.9982,0.9201,5.2103,6.3013,28.0104
+70/30 hold-out x50,PowerLaw + RF residual,0.9967,0.9673,5.5934,8.4824,31.9336
+70/30 hold-out x50,PowerLaw + RF residual,0.9961,0.9956,8.2382,10.7556,26.6722
+70/30 hold-out x50,PowerLaw + RF residual,0.996,0.9958,7.0342,10.604,35.516
+70/30 hold-out x50,PowerLaw + RF residual,0.9976,0.9748,7.4742,8.4469,18.3366
+70/30 hold-out x50,PowerLaw + RF residual,0.9982,0.9958,5.7243,7.462,23.678
+70/30 hold-out x50,PowerLaw + RF residual,0.9969,0.9297,5.8977,7.94,27.0608
+70/30 hold-out x50,PowerLaw + RF residual,0.9975,0.913,6.7953,8.0001,29.1196
+70/30 hold-out x50,PowerLaw + RF residual,0.9984,0.9906,4.8389,5.8536,18.6457
+70/30 hold-out x50,PowerLaw + RF residual,0.9974,0.8879,6.5483,8.0256,32.3089
+70/30 hold-out x50,PowerLaw + RF residual,0.9965,0.9927,6.3791,6.4071,19.502
+70/30 hold-out x50,PowerLaw + RF residual,0.9976,0.9972,6.9272,8.1274,20.8218
+70/30 hold-out x50,PowerLaw + RF residual,0.995,0.9295,8.712,10.4164,29.1435
+70/30 hold-out x50,PowerLaw + RF residual,0.9973,0.916,5.3306,7.223,29.2188
+70/30 hold-out x50,PowerLaw + RF residual,0.9976,0.9179,6.2083,7.8065,28.566
+70/30 hold-out x50,PowerLaw + RF residual,0.9984,0.9904,4.6332,6.0334,11.7217
+70/30 hold-out x50,PowerLaw + RF residual,0.9948,0.9208,9.4541,10.5071,26.8916
+70/30 hold-out x50,PowerLaw + RF residual,0.9972,0.9769,5.7244,8.3703,23.4184
+70/30 hold-out x50,PowerLaw + RF residual,0.9961,0.9975,7.1668,8.22,26.5651
+70/30 hold-out x50,PowerLaw + RF residual,0.9961,0.9074,11.1165,12.3204,38.3179
+70/30 hold-out x50,PowerLaw + RF residual,0.9968,0.9179,7.1878,8.8596,27.4636
+70/30 hold-out x50,PowerLaw + RF residual,0.9975,0.926,5.7379,8.3626,27.2382
+70/30 hold-out x50,PowerLaw + RF residual,0.996,0.9162,7.6645,9.484,33.5848
+70/30 hold-out x50,PowerLaw + RF residual,0.9966,0.8943,6.177,9.1099,33.5627
+70/30 hold-out x50,PowerLaw + RF residual,0.9985,0.9964,5.3714,6.0646,13.8947
+70/30 hold-out x50,PowerLaw + RF residual,0.9977,0.9775,8.0349,8.1497,21.4892
+70/30 hold-out x50,PowerLaw + RF residual,0.997,0.9214,5.3608,8.0686,30.3308
+70/30 hold-out x50,PowerLaw + RF residual,0.9979,0.9973,5.5839,6.9213,30.3843
+70/30 hold-out x50,PowerLaw + RF residual,0.999,0.9934,5.6151,5.5038,14.2693
+70/30 hold-out x50,PowerLaw + RF residual,0.9967,0.9941,6.6736,10.6354,37.4785
+70/30 hold-out x50,PowerLaw + RF residual,0.999,0.9911,5.5881,6.1447,11.5765
+70/30 hold-out x50,PowerLaw + GP residual,0.9996,0.9815,2.5417,3.2979,13.928
+70/30 hold-out x50,PowerLaw + GP residual,0.9972,0.9899,4.1715,6.3265,29.5039
+70/30 hold-out x50,PowerLaw + GP residual,0.9972,0.9775,6.9661,8.4341,24.9728
+70/30 hold-out x50,PowerLaw + GP residual,0.9991,0.9919,3.812,4.4957,14.6159
+70/30 hold-out x50,PowerLaw + GP residual,0.9973,0.924,3.4241,6.3386,27.3997
+70/30 hold-out x50,PowerLaw + GP residual,0.9988,0.988,4.3772,5.5453,18.0389
+70/30 hold-out x50,PowerLaw + GP residual,0.9995,0.9858,4.1575,3.682,13.1131
+70/30 hold-out x50,PowerLaw + GP residual,0.9986,0.9287,4.1478,5.4095,26.6456
+70/30 hold-out x50,PowerLaw + GP residual,0.9973,0.8988,3.9203,7.3531,31.6077
+70/30 hold-out x50,PowerLaw + GP residual,0.9986,0.9954,6.5313,5.7821,11.9002
+70/30 hold-out x50,PowerLaw + GP residual,0.9966,0.8948,3.0975,6.838,31.3929
+70/30 hold-out x50,PowerLaw + GP residual,0.9975,0.899,5.2548,7.3346,32.6286
+70/30 hold-out x50,PowerLaw + GP residual,0.9943,0.9972,3.3714,7.3938,29.8866
+70/30 hold-out x50,PowerLaw + GP residual,0.9976,0.993,3.9541,6.2102,19.99
+70/30 hold-out x50,PowerLaw + GP residual,0.9991,0.9813,1.7575,4.1204,13.9251
+70/30 hold-out x50,PowerLaw + GP residual,0.9994,0.9991,2.7889,3.3455,9.4187
+70/30 hold-out x50,PowerLaw + GP residual,0.9984,0.9946,3.7819,5.689,29.5569
+70/30 hold-out x50,PowerLaw + GP residual,0.9979,0.9765,4.667,6.9109,26.0883
+70/30 hold-out x50,PowerLaw + GP residual,0.9973,0.8939,5.0194,7.562,33.0578
+70/30 hold-out x50,PowerLaw + GP residual,0.9977,0.9055,4.8868,7.0615,30.5736
+70/30 hold-out x50,PowerLaw + GP residual,0.9976,0.9868,4.1212,5.7166,26.5581
+70/30 hold-out x50,PowerLaw + GP residual,0.9973,0.9945,6.4827,6.9948,28.4762
+70/30 hold-out x50,PowerLaw + GP residual,0.9985,0.9959,3.5657,5.4908,28.6423
+70/30 hold-out x50,PowerLaw + GP residual,0.9979,0.9757,4.4543,6.5097,28.5106
+70/30 hold-out x50,PowerLaw + GP residual,0.9986,0.985,2.2946,4.9317,24.8968
+70/30 hold-out x50,PowerLaw + GP residual,0.9961,0.9199,4.6897,8.584,32.2586
+70/30 hold-out x50,PowerLaw + GP residual,0.9975,0.8966,4.4937,6.9906,31.9381
+70/30 hold-out x50,PowerLaw + GP residual,0.999,0.9789,3.4313,4.3874,17.2296
+70/30 hold-out x50,PowerLaw + GP residual,0.998,0.9047,3.2625,6.1343,29.8041
+70/30 hold-out x50,PowerLaw + GP residual,0.9957,0.9908,2.1745,4.8069,27.0108
+70/30 hold-out x50,PowerLaw + GP residual,0.9983,0.9872,5.7814,6.2279,16.1674
+70/30 hold-out x50,PowerLaw + GP residual,0.9946,0.9197,6.2541,9.2556,34.3349
+70/30 hold-out x50,PowerLaw + GP residual,0.9975,0.9119,3.7669,5.9581,29.7807
+70/30 hold-out x50,PowerLaw + GP residual,0.9979,0.9203,2.2071,5.9512,28.3645
+70/30 hold-out x50,PowerLaw + GP residual,0.9973,0.9957,4.3526,6.3532,27.0529
+70/30 hold-out x50,PowerLaw + GP residual,0.9958,0.9193,4.2363,7.5932,27.3814
+70/30 hold-out x50,PowerLaw + GP residual,0.9978,0.991,4.7652,6.3059,26.3726
+70/30 hold-out x50,PowerLaw + GP residual,0.9956,0.998,3.6119,6.5979,33.5841
+70/30 hold-out x50,PowerLaw + GP residual,0.9981,0.9224,6.4088,7.7025,28.0848
+70/30 hold-out x50,PowerLaw + GP residual,0.997,0.9051,4.0675,6.9468,29.5589
+70/30 hold-out x50,PowerLaw + GP residual,0.998,0.9212,2.6066,5.8387,28.077
+70/30 hold-out x50,PowerLaw + GP residual,0.9981,0.912,3.0222,4.9189,29.4034
+70/30 hold-out x50,PowerLaw + GP residual,0.9968,0.8843,5.1604,7.7327,34.8277
+70/30 hold-out x50,PowerLaw + GP residual,0.999,0.9912,4.315,4.8503,11.8296
+70/30 hold-out x50,PowerLaw + GP residual,0.9981,0.9931,3.0924,6.4353,27.1769
+70/30 hold-out x50,PowerLaw + GP residual,0.9975,0.9211,3.8572,6.3269,28.1981
+70/30 hold-out x50,PowerLaw + GP residual,0.9991,0.9784,2.9764,4.6977,13.8676
+70/30 hold-out x50,PowerLaw + GP residual,0.9985,0.9933,3.9294,5.4134,29.229
+70/30 hold-out x50,PowerLaw + GP residual,0.9986,0.9892,5.1318,6.838,25.4854
+70/30 hold-out x50,PowerLaw + GP residual,0.9982,0.9768,6.246,6.7003,27.0962
+Leave-one-Pr-out,PowerLaw (log-linear),0.9851,0.9939,14.2503,13.7821,31.7503
+Leave-one-Pr-out,PowerLaw (log-linear),0.992,0.9914,9.4201,8.0184,14.3177
+Leave-one-Pr-out,PowerLaw (log-linear),0.99,0.9909,9.0355,12.4103,29.1922
+Leave-one-Pr-out,PowerLaw (log-linear),,,10.7592,10.7592,10.7592
+Leave-one-Pr-out,PowerLaw (log-linear),,,10.5347,10.5347,10.5347
+Leave-one-Pr-out,PowerLaw (log-linear),,,5.8,5.8,5.8
+Leave-one-Pr-out,PowerLaw (log-linear),,,1.8,1.8,1.8
+Leave-one-Pr-out,PowerLaw (log-linear),0.9934,0.8133,11.136,14.853,42.7337
+Leave-one-Pr-out,PowerLaw (log-linear),,,12.5148,12.5148,12.5148
+Leave-one-Pr-out,PowerLaw (log-linear),,,4.2003,4.2003,4.2003
+Leave-one-Pr-out,PowerLaw (log-linear),,,2.6008,2.6008,2.6008
+Leave-one-Pr-out,PowerLaw (log-linear),,,4.6882,4.6882,4.6882
+Leave-one-Pr-out,PowerLaw (log-linear),,,13.662,13.662,13.662
+Leave-one-Pr-out,Poly2 + Ridge,0.9831,0.9874,20.8388,17.7164,29.8973
+Leave-one-Pr-out,Poly2 + Ridge,0.9969,0.996,4.736,5.0371,8.4153
+Leave-one-Pr-out,Poly2 + Ridge,0.9936,0.9826,11.4203,10.9537,19.8258
+Leave-one-Pr-out,Poly2 + Ridge,,,2.9361,2.9361,2.9361
+Leave-one-Pr-out,Poly2 + Ridge,,,2.817,2.817,2.817
+Leave-one-Pr-out,Poly2 + Ridge,,,1.5615,1.5615,1.5615
+Leave-one-Pr-out,Poly2 + Ridge,,,5.1854,5.1854,5.1854
+Leave-one-Pr-out,Poly2 + Ridge,0.9844,0.9593,16.8756,28.1827,101.0737
+Leave-one-Pr-out,Poly2 + Ridge,,,6.6863,6.6863,6.6863
+Leave-one-Pr-out,Poly2 + Ridge,,,0.2235,0.2235,0.2235
+Leave-one-Pr-out,Poly2 + Ridge,,,0.0684,0.0684,0.0684
+Leave-one-Pr-out,Poly2 + Ridge,,,4.2941,4.2941,4.2941
+Leave-one-Pr-out,Poly2 + Ridge,,,15.8039,15.8039,15.8039
+Leave-one-Pr-out,RandomForest (direct),0.5435,0.3147,58.6219,60.3624,67.9893
+Leave-one-Pr-out,RandomForest (direct),0.6545,0.3488,38.5528,42.2,57.4349
+Leave-one-Pr-out,RandomForest (direct),0.6846,0.1595,96.0522,109.8625,288.606
+Leave-one-Pr-out,RandomForest (direct),,,13.2935,13.2935,13.2935
+Leave-one-Pr-out,RandomForest (direct),,,16.3895,16.3895,16.3895
+Leave-one-Pr-out,RandomForest (direct),,,15.4265,15.4265,15.4265
+Leave-one-Pr-out,RandomForest (direct),,,3.9558,3.9558,3.9558
+Leave-one-Pr-out,RandomForest (direct),0.3182,-0.0454,508.742,540.7633,1255.6714
+Leave-one-Pr-out,RandomForest (direct),,,96.3282,96.3282,96.3282
+Leave-one-Pr-out,RandomForest (direct),,,4.7228,4.7228,4.7228
+Leave-one-Pr-out,RandomForest (direct),,,30.4227,30.4227,30.4227
+Leave-one-Pr-out,RandomForest (direct),,,10.6632,10.6632,10.6632
+Leave-one-Pr-out,RandomForest (direct),,,228.456,228.456,228.456
+Leave-one-Pr-out,GradBoost (direct),0.7066,0.4531,52.1546,52.2462,60.371
+Leave-one-Pr-out,GradBoost (direct),0.7619,0.7153,38.226,35.9713,46.5873
+Leave-one-Pr-out,GradBoost (direct),0.8119,0.1458,34.536,43.0746,89.7088
+Leave-one-Pr-out,GradBoost (direct),,,39.0571,39.0571,39.0571
+Leave-one-Pr-out,GradBoost (direct),,,22.1571,22.1571,22.1571
+Leave-one-Pr-out,GradBoost (direct),,,16.8258,16.8258,16.8258
+Leave-one-Pr-out,GradBoost (direct),,,42.4369,42.4369,42.4369
+Leave-one-Pr-out,GradBoost (direct),0.6289,0.127,276.7437,305.3026,782.772
+Leave-one-Pr-out,GradBoost (direct),,,75.0194,75.0194,75.0194
+Leave-one-Pr-out,GradBoost (direct),,,35.1297,35.1297,35.1297
+Leave-one-Pr-out,GradBoost (direct),,,52.8066,52.8066,52.8066
+Leave-one-Pr-out,GradBoost (direct),,,52.5653,52.5653,52.5653
+Leave-one-Pr-out,GradBoost (direct),,,125.7134,125.7134,125.7134
+Leave-one-Pr-out,PowerLaw + RF residual,0.992,0.9853,11.8399,11.0304,19.1352
+Leave-one-Pr-out,PowerLaw + RF residual,0.9937,0.9978,5.4226,6.5947,14.5122
+Leave-one-Pr-out,PowerLaw + RF residual,0.9929,0.9811,12.0168,11.2331,19.466
+Leave-one-Pr-out,PowerLaw + RF residual,,,5.6992,5.6992,5.6992
+Leave-one-Pr-out,PowerLaw + RF residual,,,4.8048,4.8048,4.8048
+Leave-one-Pr-out,PowerLaw + RF residual,,,0.6754,0.6754,0.6754
+Leave-one-Pr-out,PowerLaw + RF residual,,,3.4228,3.4228,3.4228
+Leave-one-Pr-out,PowerLaw + RF residual,0.9937,0.8371,8.0507,14.1428,41.2578
+Leave-one-Pr-out,PowerLaw + RF residual,,,10.701,10.701,10.701
+Leave-one-Pr-out,PowerLaw + RF residual,,,2.2261,2.2261,2.2261
+Leave-one-Pr-out,PowerLaw + RF residual,,,2.3952,2.3952,2.3952
+Leave-one-Pr-out,PowerLaw + RF residual,,,2.8741,2.8741,2.8741
+Leave-one-Pr-out,PowerLaw + RF residual,,,13.4436,13.4436,13.4436
+Leave-one-Pr-out,PowerLaw + GP residual,0.9924,0.9899,4.2619,7.4214,26.4456
+Leave-one-Pr-out,PowerLaw + GP residual,0.9974,0.994,3.927,4.6197,10.4279
+Leave-one-Pr-out,PowerLaw + GP residual,0.9931,0.9845,8.5655,10.8574,23.1479
+Leave-one-Pr-out,PowerLaw + GP residual,,,4.1673,4.1673,4.1673
+Leave-one-Pr-out,PowerLaw + GP residual,,,5.1496,5.1496,5.1496
+Leave-one-Pr-out,PowerLaw + GP residual,,,0.5235,0.5235,0.5235
+Leave-one-Pr-out,PowerLaw + GP residual,,,3.303,3.303,3.303
+Leave-one-Pr-out,PowerLaw + GP residual,0.9892,0.815,16.5411,22.1285,52.3835
+Leave-one-Pr-out,PowerLaw + GP residual,,,15.2245,15.2245,15.2245
+Leave-one-Pr-out,PowerLaw + GP residual,,,2.1843,2.1843,2.1843
+Leave-one-Pr-out,PowerLaw + GP residual,,,1.5192,1.5192,1.5192
+Leave-one-Pr-out,PowerLaw + GP residual,,,3.308,3.308,3.308
+Leave-one-Pr-out,PowerLaw + GP residual,,,7.7994,7.7994,7.7994
+Leave-one-Ra-decade-out,PowerLaw (log-linear),0.9988,0.9991,4.7169,6.062,12.3517
+Leave-one-Ra-decade-out,PowerLaw (log-linear),0.9728,0.9441,14.8314,15.391,27.4477
+Leave-one-Ra-decade-out,PowerLaw (log-linear),0.9939,0.9252,6.7434,9.7069,22.4395
+Leave-one-Ra-decade-out,PowerLaw (log-linear),0.9953,0.9847,10.4381,9.8287,14.2055
+Leave-one-Ra-decade-out,PowerLaw (log-linear),0.9947,0.9777,5.4147,5.5247,10.4285
+Leave-one-Ra-decade-out,PowerLaw (log-linear),0.9308,0.9173,8.5608,8.5608,9.2493
+Leave-one-Ra-decade-out,PowerLaw (log-linear),,,34.0856,34.0856,34.0856
+Leave-one-Ra-decade-out,PowerLaw (log-linear),,,33.625,33.625,33.625
+Leave-one-Ra-decade-out,Poly2 + Ridge,0.9693,0.9763,7.7188,16.4263,65.0167
+Leave-one-Ra-decade-out,Poly2 + Ridge,0.9669,0.9863,9.0109,19.0213,41.5639
+Leave-one-Ra-decade-out,Poly2 + Ridge,0.99,0.8938,11.145,13.1931,29.6707
+Leave-one-Ra-decade-out,Poly2 + Ridge,0.9975,0.9601,2.7521,4.7477,17.8129
+Leave-one-Ra-decade-out,Poly2 + Ridge,0.9909,0.9667,6.5336,8.4343,12.6691
+Leave-one-Ra-decade-out,Poly2 + Ridge,0.8062,0.6341,15.6474,15.6474,20.4528
+Leave-one-Ra-decade-out,Poly2 + Ridge,,,8.6665,8.6665,8.6665
+Leave-one-Ra-decade-out,Poly2 + Ridge,,,19.2574,19.2574,19.2574
+Leave-one-Ra-decade-out,RandomForest (direct),0.4392,0.5567,65.2136,545.3256,4420.4947
+Leave-one-Ra-decade-out,RandomForest (direct),0.5731,-0.7237,78.4815,102.474,245.1747
+Leave-one-Ra-decade-out,RandomForest (direct),0.7578,0.5728,43.497,43.7749,75.9978
+Leave-one-Ra-decade-out,RandomForest (direct),0.9249,0.8922,19.3132,36.0644,81.3029
+Leave-one-Ra-decade-out,RandomForest (direct),0.4256,0.0387,40.5368,44.3285,68.2554
+Leave-one-Ra-decade-out,RandomForest (direct),-2.0102,0.328,29.1148,29.1148,56.7444
+Leave-one-Ra-decade-out,RandomForest (direct),,,75.1918,75.1918,75.1918
+Leave-one-Ra-decade-out,RandomForest (direct),,,6.9917,6.9917,6.9917
+Leave-one-Ra-decade-out,GradBoost (direct),0.5736,0.3313,66.0768,313.9824,2420.1439
+Leave-one-Ra-decade-out,GradBoost (direct),0.7029,0.1251,60.1227,75.7316,195.8791
+Leave-one-Ra-decade-out,GradBoost (direct),0.882,0.6692,36.8324,35.2041,70.5153
+Leave-one-Ra-decade-out,GradBoost (direct),0.8863,0.4676,36.6561,51.352,173.9961
+Leave-one-Ra-decade-out,GradBoost (direct),0.3594,0.1482,59.6068,75.6128,121.8698
+Leave-one-Ra-decade-out,GradBoost (direct),-5.9634,-20.8631,108.9577,108.9577,161.1314
+Leave-one-Ra-decade-out,GradBoost (direct),,,64.8319,64.8319,64.8319
+Leave-one-Ra-decade-out,GradBoost (direct),,,8.5016,8.5016,8.5016
+Leave-one-Ra-decade-out,PowerLaw + RF residual,0.9986,0.9976,4.4347,5.4826,17.4737
+Leave-one-Ra-decade-out,PowerLaw + RF residual,0.9811,0.9852,15.319,14.2854,23.1909
+Leave-one-Ra-decade-out,PowerLaw + RF residual,0.9953,0.9833,9.61,8.7086,14.6902
+Leave-one-Ra-decade-out,PowerLaw + RF residual,0.9957,0.963,7.9514,8.2612,17.1282
+Leave-one-Ra-decade-out,PowerLaw + RF residual,0.9929,0.9817,8.5229,8.1197,9.2765
+Leave-one-Ra-decade-out,PowerLaw + RF residual,0.995,0.996,2.3329,2.3329,3.1034
+Leave-one-Ra-decade-out,PowerLaw + RF residual,,,27.9902,27.9902,27.9902
+Leave-one-Ra-decade-out,PowerLaw + RF residual,,,20.3906,20.3906,20.3906
+Leave-one-Ra-decade-out,PowerLaw + GP residual,0.9983,0.9793,5.5822,6.6998,14.546
+Leave-one-Ra-decade-out,PowerLaw + GP residual,0.9933,0.932,6.0789,7.2423,24.7251
+Leave-one-Ra-decade-out,PowerLaw + GP residual,0.9952,0.9794,7.82,8.8683,15.8009
+Leave-one-Ra-decade-out,PowerLaw + GP residual,0.995,0.9877,8.3706,8.7867,20.6973
+Leave-one-Ra-decade-out,PowerLaw + GP residual,0.9978,0.9954,4.5791,4.3488,6.1134
+Leave-one-Ra-decade-out,PowerLaw + GP residual,0.8719,0.7205,11.0636,11.0636,18.4102
+Leave-one-Ra-decade-out,PowerLaw + GP residual,,,28.8753,28.8753,28.8753
+Leave-one-Ra-decade-out,PowerLaw + GP residual,,,26.1211,26.1211,26.1211
+Extrapolate Ra>1e9,PowerLaw (log-linear),0.9587,0.7359,15.6525,16.7214,42.041
+Extrapolate Ra>1e9,Poly2 + Ridge,0.912,0.0202,31.1159,36.3714,82.9352
+Extrapolate Ra>1e9,RandomForest (direct),-4.0475,-0.7669,87.0039,83.3523,99.1621
+Extrapolate Ra>1e9,GradBoost (direct),-4.9751,-0.7713,88.7973,85.7382,99.3963
+Extrapolate Ra>1e9,PowerLaw + RF residual,0.9659,0.7611,13.3298,14.2934,40.1899
+Extrapolate Ra>1e9,PowerLaw + GP residual,0.9579,0.7358,15.5726,17.6191,42.041
+Extrapolate Pr>1,PowerLaw (log-linear),0.9926,0.9775,5.7604,6.8193,13.3335
+Extrapolate Pr>1,Poly2 + Ridge,0.7607,0.9554,26.3494,30.1747,56.9196
+Extrapolate Pr>1,RandomForest (direct),-5.3767,-45.0893,692.0388,1485.2837,4258.6886
+Extrapolate Pr>1,GradBoost (direct),-5.3072,-43.5308,680.3525,1461.8932,4194.3773
+Extrapolate Pr>1,PowerLaw + RF residual,0.9921,0.9834,7.0808,6.5707,14.5478
+Extrapolate Pr>1,PowerLaw + GP residual,0.9852,0.9118,9.643,10.9538,21.6263
